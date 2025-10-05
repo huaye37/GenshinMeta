@@ -1,0 +1,15 @@
+{
+  "char": "flins",
+  "windows": {
+    "smallQ_s": 16,
+    "bigQ_s": 20
+  },
+  "energy_cap": 80,
+  "route_notes": "小Q与大Q不可兼得；小Q按E=16s，大Q按Q=20s",
+  "version": "v1.0.0",
+  "source": "OBC + 你的实测",
+  "assumptions": {
+    "enemy_level": 95,
+    "enemy_base_electro_res": 0.1
+  }
+}

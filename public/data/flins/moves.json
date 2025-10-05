@@ -1,0 +1,48 @@
+{
+  "char": "flins",
+  "moves": [
+    {
+      "move_key": "Q_big_mid",
+      "tag": "月感电",
+      "lvl": 10,
+      "hits": 2,
+      "coef_pct": 29.232,
+      "energy_cost": 80,
+      "cd_s": 20,
+      "note": "大Q中段"
+    },
+    {
+      "move_key": "Q_big_end",
+      "tag": "月感电",
+      "lvl": 10,
+      "hits": 1,
+      "coef_pct": 210.4704,
+      "energy_cost": 80,
+      "cd_s": 20,
+      "note": "大Q末段"
+    },
+    {
+      "move_key": "Q_small_1",
+      "tag": "月感电",
+      "lvl": 10,
+      "hits": 1,
+      "coef_pct": 128.6208,
+      "energy_cost": 30,
+      "cd_s": 0,
+      "window_s": 6,
+      "refresh_by": "E' 北国枪阵"
+    },
+    {
+      "move_key": "Q_small_2",
+      "tag": "月感电",
+      "lvl": 10,
+      "hits": 1,
+      "coef_pct": 187.0848,
+      "energy_cost": 30,
+      "cd_s": 0,
+      "window_s": 6,
+      "refresh_by": "E' 北国枪阵"
+    }
+  ],
+  "updated_at": "2025-10-05"
+}

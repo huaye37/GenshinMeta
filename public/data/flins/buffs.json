@@ -1,0 +1,38 @@
+{
+  "char": "flins",
+  "buffs": [
+    {
+      "key": "talent_mgc",
+      "scope": "self",
+      "type": "加算",
+      "value": 0.2,
+      "uptime": 1.0,
+      "note": "天赋：月感电+20%，0命常驻"
+    },
+    {
+      "key": "c2_res",
+      "scope": "enemy",
+      "type": "抗性",
+      "value": -0.25,
+      "uptime": 0.0,
+      "note": "C2 减抗，默认未覆盖"
+    },
+    {
+      "key": "c6_self",
+      "scope": "self",
+      "type": "擢升",
+      "value": 0.35,
+      "uptime": 0.0,
+      "note": "C6 自身擢升"
+    },
+    {
+      "key": "c6_team",
+      "scope": "self",
+      "type": "擢升",
+      "value": 0.1,
+      "uptime": 0.0,
+      "note": "C6 团队擢升，本人也享受"
+    }
+  ],
+  "updated_at": "2025-10-05"
+}
